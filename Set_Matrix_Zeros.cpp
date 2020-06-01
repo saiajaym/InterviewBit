@@ -41,7 +41,9 @@ Output 2:
 
 */
 
-
+/*
+to speed it up, I used an extra row and column array which maintains if the particular row/column has been set to zero or not
+*/
 
 
 
